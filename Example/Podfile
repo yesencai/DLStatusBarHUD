@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DLStatusBarHUD_Example' do
+  pod 'DLStatusBarHUD', :path => '../'
+
+  target 'DLStatusBarHUD_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
