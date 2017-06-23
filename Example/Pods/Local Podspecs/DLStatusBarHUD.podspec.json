@@ -1,0 +1,22 @@
+{
+  "name": "DLStatusBarHUD",
+  "version": "0.1.0",
+  "summary": "A short description of DLStatusBarHUD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yesencai@163.com/DLStatusBarHUD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yesencai@163.com": "yesencai@163.com"
+  },
+  "source": {
+    "git": "https://github.com/yesencai@163.com/DLStatusBarHUD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DLStatusBarHUD/Classes/**/*"
+}

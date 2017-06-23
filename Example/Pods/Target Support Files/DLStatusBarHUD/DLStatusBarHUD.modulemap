@@ -1,0 +1,6 @@
+framework module DLStatusBarHUD {
+  umbrella header "DLStatusBarHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}

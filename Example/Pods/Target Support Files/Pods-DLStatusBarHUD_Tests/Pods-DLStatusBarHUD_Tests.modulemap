@@ -1,0 +1,6 @@
+framework module Pods_DLStatusBarHUD_Tests {
+  umbrella header "Pods-DLStatusBarHUD_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
